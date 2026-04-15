@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Olá, Me chamo Gustavo:
 Desenvolvedor Java com 2 anos de experiência em servidores Minecraft (Spigot/Paper), atualmente cursando Análise e Desenvolvimento de Sistemas. Especializado na criação, otimização e evolução de sistemas personalizados, com foco em performance e experiência do usuário.
 
 
